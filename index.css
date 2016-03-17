@@ -1,0 +1,22 @@
+HTML, body, #MAIN, #MAP {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+#INPUT {
+  margin: 0;
+  padding: 0.5em;
+  background: #ccc;
+  position: absolute;
+  bottom: 0.25em;
+  right: 0;
+  width: auto;
+}
+
+#INPUT p {
+  margin: 0;
+  padding: 0.125em;
+}
